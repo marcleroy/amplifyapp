@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+// import logo from './logo.svg';
+// import './App.css';
 
 // function App() {
 //   return (
@@ -24,7 +24,7 @@ import './App.css';
 
 // export default App;
 
-// import React from 'react';
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
